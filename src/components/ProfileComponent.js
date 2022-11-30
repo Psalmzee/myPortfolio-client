@@ -35,7 +35,7 @@ class ProfileComponent extends React.Component {
                     <div className={'dashboard-profile-details-container'}>
                         <p className={'dashboard-profile-name-label'}>Hello, I'm <span className={'dashboard-profile-name'}>Samson Okeji</span></p>
                         <p className={'dashboard-profile-deatils'}>
-                            I'm a Software Engineer specialized in Web application development, having fluent knowledge in the web application frameworks and developed cross-platform based mobile application using React-Native framework. In terms of the Web framework having experience in both back-end and front-end development, developed many full-stack based web application using Node.js, React.js & MongoDB.
+                            I'm a Software Engineer specialized in Backend Engineering, having fluent knowledge in the Software Development Life Cycle and Test Driven Development. In terms of the Web framework, I have rich experience developing highly scalable Web APIs following the MVC Architecture and I have experience in both back-end and front-end development, developed many full-stack based web application using Node.js, React.js, MongoDB & MySQL.
                             </p>
                         <p className={'dashboard-profile-deatils'}>
                             To improve my skill sets in security I like to participate in various Bug Bounty programs (Bugcrowd, HackerOne & many others) In Bug Bounty programs, I found many vulnerabilities that come under OWASP top 10.
