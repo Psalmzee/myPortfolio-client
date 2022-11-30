@@ -29,7 +29,7 @@ class ProfileComponent extends React.Component {
                             <a href="https://twitter.com/SammyOkeji/" target="_blank"><img src={twitter} className={'social-profile-icon'} /></a>
                             <a href="https://www.linkedin.com/in/samson-okeji-001b1913a/" target="_blank"><img src={linkedin} className={'social-profile-icon'} /></a>
                             <a href="https://github.com/Psalmzee" target="_blank"><img src={github} className={'social-profile-icon'} /></a>
-                            <a href="https://www.youtube.com/channel/UCgLtdnywDYZ9swUTSQnBEdA/" target="_blank"><img src={youtube} className={'social-profile-icon'} /></a>
+                            <a href="https://www.youtube.com/@samsonokeji" target="_blank"><img src={youtube} className={'social-profile-icon'} /></a>
                         </div>
                     </div>
                     <div className={'dashboard-profile-details-container'}>
@@ -41,7 +41,7 @@ class ProfileComponent extends React.Component {
                             To improve my skill sets in security I like to participate in various Bug Bounty programs (Bugcrowd, HackerOne & many others) In Bug Bounty programs, I found many vulnerabilities that come under OWASP top 10.
                             </p>
                         <p className={'dashboard-profile-deatils'}>
-                            As a hobby I love to contribute to open source projects and to share my work with developer communities via<a href="https://github.com/Psalmzee" className={'profile-details-link'} target="_blank">GITHUB</a> and make tutorial videos on my <a href="https://www.youtube.com/channel/UCgLtdnywDYZ9swUTSQnBEdA/" className={'profile-details-link'} target="_blank">Youtube channel.</a>
+                            As a hobby I love to contribute to open source projects and to share my work with developer communities via <a href="https://github.com/Psalmzee" className={'profile-details-link'} target="_blank">GITHUB</a> and make tutorial videos on my <a href="https://www.youtube.com/@samsonokeji" className={'profile-details-link'} target="_blank">Youtube channel.</a>
                         </p>
                     </div>
                 </div>
