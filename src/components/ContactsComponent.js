@@ -25,7 +25,7 @@ class ContactsComponent extends React.Component {
             <div className={'contacts-contents-container'}>
                 <div className={'contacts-social-container'}>
                     <a href="https://www.facebook.com/samson.okeji/" target="_blank"><img src={facebook} className={'contact-social-img'}/></a>
-                    <a href="https://twitter.com/SammyOkeji/" target="_blank"><img src={twitter} className={'contact-social-img'}/></a>
+                    <a href="https://twitter.com/Som_hairle/" target="_blank"><img src={twitter} className={'contact-social-img'}/></a>
                     <a href="https://www.linkedin.com/in/samson-okeji-001b1913a/" target="_blank"><img src={linkedin} className={'contact-social-img'}/></a>
                     <a href="https://github.com/Psalmzee" target="_blank"><img src={github} className={'contact-social-img'}/></a>
                     <a href="https://www.youtube.com/channel/UCgLtdnywDYZ9swUTSQnBEdA/" target="_blank"><img src={youtube} className={'contact-social-img'}/></a>
